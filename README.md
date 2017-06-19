@@ -1,3 +1,3 @@
 # Quantitative-Methods-Review
 
-Review of fundamental quantative methods for finanical application
+Review of fundamental quantitative methods for finanical application
